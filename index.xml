@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Happy Fun Time!</title>
+    <link>/</link>
+    <description>Recent content on R Happy Fun Time!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>test</title>
+      <link>/2017/12/11/test/</link>
+      <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/12/11/test/</guid>
+      <description>Foo Bar Baz</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Thu, 16 Nov 2017 21:48:51 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Happy about R since 2017!</description>
+    </item>
+    
+  </channel>
+</rss>
